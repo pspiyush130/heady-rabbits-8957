@@ -7,7 +7,7 @@
 
 # Getting Started
 
-This project is a simple e-commerce website ispaired by Myntra.com .
+Myntra is an e-commerce website where people can buy from wide range of products and has an interactive UI. 
 
 Ecommerce is a complex business. It involves many edge cases and a solid system architecture. This project is simply a demo demonstrating basic features which is only the tip of an iceberg. This project might ( and certainly does ) have bugs, vulnerabilities or some other types of issues. So, contributions are always welcome ☺
 
@@ -22,7 +22,7 @@ The demo is under free hosting, so it may require a bit of a patience ☺
 
 ✦ You can search items.
 
-# Built With
+## Tech Stack 💻
 ◮ JavaScript  
-  ◮ HTML & CSS
+  ◮ HTML5 & CSS3
 
