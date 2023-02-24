@@ -28,16 +28,19 @@ The demo is under free hosting, so it may require a bit of a patience ☺
   
 ## Snap_Shots 📷
 
-# Home Page   https://github.com/pspiyush130/heady-rabbits-8957/blob/main/IMAGES/ui1.jpg
+# Home Page  
 
-
+![ui1](https://user-images.githubusercontent.com/118152296/221275634-1f77444d-0c93-4efa-8b8d-653c871f63aa.jpg)
 
 
 # Registration Page
 
+![ui3](https://user-images.githubusercontent.com/118152296/221275688-945f05c0-ba9b-4236-96c8-7e0aaeb00019.png)
 
 
 # Product  Page
+![ui2](https://user-images.githubusercontent.com/118152296/221275727-7f7f21ed-6b76-4168-88a1-fdc1d2428ce3.png)
+
 
 
 
