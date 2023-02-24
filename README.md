@@ -5,6 +5,9 @@
 > Project By : **Piyush Sharma**
 > Student Code : **fp09_018**
 
+## logo
+![Myntra-Logo](https://user-images.githubusercontent.com/118152296/221276060-07f1c909-90c2-486f-a0b0-1802234cb4e4.png)
+
 # Getting Started
 
 Maya_Bazar is ispaired by Myntra.com . Myntra is an e-commerce website where people can buy  wide range of products and has an interactive UI. 
@@ -28,16 +31,23 @@ The demo is under free hosting, so it may require a bit of a patience ☺
   
 ## Snap_Shots 📷
 
-Home Page
+# Home Page  
 
-![Logo]
+![ui1](https://user-images.githubusercontent.com/118152296/221275634-1f77444d-0c93-4efa-8b8d-653c871f63aa.jpg)
 
 
-Registration Page
+# Registration Page
 
-![Logo]
 
-Product  Page
+![ui3](https://user-images.githubusercontent.com/118152296/221275688-945f05c0-ba9b-4236-96c8-7e0aaeb00019.png)
 
-![Logo]
+
+
+# Product  Page
+
+
+![ui2](https://user-images.githubusercontent.com/118152296/221275727-7f7f21ed-6b76-4168-88a1-fdc1d2428ce3.png)
+
+
+
 
