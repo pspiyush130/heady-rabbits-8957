@@ -16,6 +16,8 @@ Ecommerce is a complex business. It involves many edge cases and a solid system 
 
 The demo is under free hosting, so it may require a bit of a patience ☺
 
+## Deployed Link : https://soft-lolly-a68373.netlify.app/registration
+
 
 # About This Project
 
